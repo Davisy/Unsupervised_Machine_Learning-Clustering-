@@ -1,0 +1,9 @@
+Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses.On the other way you can say  unsupervised machine learning is more closely aligned with what some call true artificial intelligence — the idea that a computer can learn to identify complex processes and patterns without a human to provide guidance along the way.it opens the doors to solving problems that humans normally would not tackle. Some examples of unsupervised machine learning algorithms include k-means clustering, principal and independent component analysis, and association rules.Unsupervised learning methods are used in bioinformatics for sequence analysis and genetic clustering; in data mining for sequence and pattern mining; in medical imaging for image segmentation; and in computer vision for object recognition.
+
+The most common unsupervised learning method is cluster analysis, which is used for exploratory data analysis to find hidden patterns or grouping in data. The clusters are modeled using a measure of similarity which is defined upon metrics such as Euclidean or probabilistic distance.
+Clustering is a common technique for statistical data analysis, which is used in many fields, including machine learning, data mining, pattern recognition, image analysis and bioinformatics. Clustering is the process of grouping similar objects into different groups, or more precisely, the partitioning of a data set into subsets, so that the data in each subset according to some defined distance measure. 
+Common clustering algorithms include:
+
+1.Hierarchical clustering: builds a multilevel hierarchy of clusters by creating a cluster tree
+2.k-Means clustering: partitions data into k distinct clusters based on distance to the centroid of a cluster
+3.t-SNE Clustering: It maps high dimensional space into a 2 or 3 dimensional space which can be visualised
